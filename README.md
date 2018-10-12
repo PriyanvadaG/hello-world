@@ -1,4 +1,5 @@
 # hello-world
 tutorial
-learning to use git
-doing my best
+Learning to use git.
+Doing my best.
+Let me try.
